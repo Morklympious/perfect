@@ -14,7 +14,5 @@ If you don't know, jsPerf took a dive into the bowels of spam hell, and uh, well
 ## This garbage is still hot garbage
 
 I'm workin' on it. :D. Basically all it does now is log which code is fastest in the console. It's a little sad, but hey, it's something!
-
 ENJOY. OR DON'T. 
-
 NO SKIN OFF MY BACK.
