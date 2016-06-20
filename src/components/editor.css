@@ -1,0 +1,6 @@
+@value flex: "../css/_flex.css";
+
+.code {
+  composes: item from flex;
+  padding: 16px;
+}

@@ -1,0 +1,5 @@
+@import "../../node_modules/codemirror/lib/codemirror.css";
+
+:global(.CodeMirror .CodeMirror-line) {
+  padding: 0 32px;
+}
